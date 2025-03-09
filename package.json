@@ -4,7 +4,8 @@
     "description": "A simple app for fetching news and weather data.",
     "main": "server.js",
     "scripts": {
-        "start": "node server.js"
+        "start": "node server.js",
+        "build": "echo 'No build step required for static site'"
     },
     "dependencies": {
         "axios": "^0.26.1",
