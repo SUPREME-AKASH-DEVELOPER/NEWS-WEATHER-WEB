@@ -1,5 +1,3 @@
-Here’s a **short, professional, and informative `README.md`** for your project. It’s concise yet covers all the essential details
-
 # News & Weather Web App 🌦️📰
 
 A sleek web app that delivers real-time weather updates and the latest news based on your location or selected category. Built with ❤️ by **Akash Lakhwan**.
@@ -67,9 +65,7 @@ A sleek web app that delivers real-time weather updates and the latest news base
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light Mode](![Screenshot 2025-03-17 104638](https://github.com/user-attachments/assets/e83b83ea-9650-4f31-85ed-b52645318e30)) 
-| ![Dark Mode](![Screenshot 2025-03-17 104816](https://github.com/user-attachments/assets/156e9c4f-2505-42ed-aae1-58e3692a072d)
-|
+| ![Light Mode](https://github.com/user-attachments/assets/e83b83ea-9650-4f31-85ed-b52645318e30) | ![Dark Mode](https://github.com/user-attachments/assets/156e9c4f-2505-42ed-aae1-58e3692a072d) |
 
 ---
 
@@ -90,26 +86,3 @@ Check out the live demo: [News & Weather Web App](https://your-live-demo-link.co
 ## License 📜
 
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
-
----
-
-```
-
----
-
-### **Why This README Works**
-1. **Concise**: Only essential information is included.
-2. **Professional**: Clean structure with emojis for visual appeal.
-3. **Informative**: Covers features, setup, and author details.
-4. **Visuals**: Includes screenshots and a live demo link.
-
----
-
-### **How to Use**
-1. Replace placeholders like `your_news_api_key`, `your_weather_api_key`, and `your-live-demo-link.com` with your actual details.
-2. Add your screenshots to the `screenshots/` folder and update the paths in the README.
-3. Customize the **Author** section with your contact information.
-
----
-
-Let me know if you need further tweaks! 🚀
