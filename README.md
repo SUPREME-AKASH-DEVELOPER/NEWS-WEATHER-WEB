@@ -67,7 +67,8 @@ A sleek web app that delivers real-time weather updates and the latest news base
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light Mode]() | ![Dark Mode](![Screenshot 2025-03-17 104816](https://github.com/user-attachments/assets/156e9c4f-2505-42ed-aae1-58e3692a072d)
+| ![Light Mode](![Screenshot 2025-03-17 104638](https://github.com/user-attachments/assets/e83b83ea-9650-4f31-85ed-b52645318e30)
+) | ![Dark Mode](![Screenshot 2025-03-17 104816](https://github.com/user-attachments/assets/156e9c4f-2505-42ed-aae1-58e3692a072d)
 home-dark.png) |
 
 ---
