@@ -1,4 +1,4 @@
-const backendUrl = "http://localhost:4000"; // Replace with Render backend URL in production
+const backendUrl = "https://news-weather-web.onrender.com"; // Replace with Render backend URL in production
 
 // Theme Toggle
 document.getElementById('theme-toggle').addEventListener('click', () => {
