@@ -4,7 +4,7 @@ const cors = require('cors');
 require('dotenv').config();
 
 const app = express();
-const port = process.env.PORT || 4000;
+const port = process.env.PORT || 4000; // Use Render's provided port or fallback to 4000
 
 const NEWS_API_KEY = process.env.NEWS_API_KEY;
 const WEATHER_API_KEY = process.env.WEATHER_API_KEY;
