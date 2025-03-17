@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indian News & Weather</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <img src="logo.png" alt="Logo" class="logo">
+        <ul>
+            <li><a href="#" onclick="fetchNews('', 'general'); return false;">Home</a></li>
+            <li><a href="#" onclick="fetchNews('', 'business'); return false;">Business</a></li>
+            <li><a href="#" onclick="fetchNews('', 'entertainment'); return false;">Entertainment</a></li>
+            <li><a href="#" onclick="fetchNews('', 'health'); return false;">Health</a></li>
+            <li><a href="#" onclick="fetchNews('', 'science'); return false;">Science</a></li>
+            <li><a href="#" onclick="fetchNews('', 'sports'); return false;">Sports</a></li>
+            <li><a href="#" onclick="fetchNews('', 'technology'); return false;">Technology</a></li>
+        </ul>
+        <input type="text" id="search-input" placeholder="Search news..." onkeyup="searchNews(event)">
+        <button id="theme-toggle">🌙</button> <!-- Dark Mode Toggle -->
+    </nav>
+
+    <!-- Weather Section -->
+    <div class="weather-box" id="weather-info"></div>
+
+    <!-- News Section -->
+    <div class="news-container" id="news-info"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
