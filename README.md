@@ -71,7 +71,7 @@ A sleek web app that delivers real-time weather updates and the latest news base
 
 ## Live Demo 🌐
 
-Check out the live demo: [News & Weather Web App](https://your-live-demo-link.com)
+Check out the live demo: [News & Weather Web App](https://news-weather-web.onrender.com)
 
 ---
 
